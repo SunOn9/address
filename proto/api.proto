@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "common.proto";
+import "city/city.proto";
+import "city/city_request.proto";
+import "city/city_reply.proto";
+import "district/district.proto";
+import "district/district_request.proto";
+import "district/district_reply.proto";
+import "ward/ward.proto";
+import "ward/ward_request.proto";
+import "ward/ward_reply.proto";
+import "country/country.proto";
+import "country/country_request.proto";
+import "country/country_reply.proto";
+import "state/state.proto";
+import "state/state_request.proto";
+import "state/state_reply.proto";
+import "zone/zone.proto";
+import "zone/zone_request.proto";
+import "zone/zone_reply.proto";
+
+service CityService {
+  rpc GetDetail (GetCityConditionRequest) returns (CityReply) {}
+  rpc GetList (GetCityConditionRequest) returns (CityListReply) {}
+}
+
+service DistrictService {
+  rpc GetDetail (GetDistrictConditionRequest) returns (DistrictReply) {}
+  rpc GetList (GetDistrictConditionRequest) returns (DistrictListReply) {}
+}
+
+service WardService {
+  rpc GetDetail (GetWardConditionRequest) returns (WardReply) {}
+  rpc GetList (GetWardConditionRequest) returns (WardListReply) {}
+}
+
+service CountryService {
+  rpc GetDetail (GetCountryConditionRequest) returns (CountryReply) {}
+  rpc GetList (GetCountryConditionRequest) returns (CountryListReply) {}
+}
+
+service StateService {
+  rpc GetDetail (GetStateConditionRequest) returns (StateReply) {}
+  rpc GetList (GetStateConditionRequest) returns (StateListReply) {}
+}
+
+service ZoneService {
+  rpc InitZoneUsps (Null) returns (SimpleReply) {}
+  rpc GetZoneByZipcode (GetZoneByZipcodeRequest) returns (SimpleReply) {}
+}

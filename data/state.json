@@ -1,0 +1,767 @@
+[
+  {
+    "state_id": 12,
+    "state_name": "Alabama",
+    "country_id": 187
+  },
+  {
+    "state_id": 13,
+    "state_name": "Alaska",
+    "country_id": 187
+  },
+  {
+    "state_id": 14,
+    "state_name": "Arizona",
+    "country_id": 187
+  },
+  {
+    "state_id": 15,
+    "state_name": "Arkansas",
+    "country_id": 187
+  },
+  {
+    "state_id": 16,
+    "state_name": "California",
+    "country_id": 187
+  },
+  {
+    "state_id": 17,
+    "state_name": "Colorado",
+    "country_id": 187
+  },
+  {
+    "state_id": 18,
+    "state_name": "Connecticut",
+    "country_id": 187
+  },
+  {
+    "state_id": 19,
+    "state_name": "Delaware",
+    "country_id": 187
+  },
+  {
+    "state_id": 20,
+    "state_name": "Florida",
+    "country_id": 187
+  },
+  {
+    "state_id": 21,
+    "state_name": "Georgia",
+    "country_id": 187
+  },
+  {
+    "state_id": 22,
+    "state_name": "Hawaii",
+    "country_id": 187
+  },
+  {
+    "state_id": 23,
+    "state_name": "Idaho",
+    "country_id": 187
+  },
+  {
+    "state_id": 24,
+    "state_name": "Illinois",
+    "country_id": 187
+  },
+  {
+    "state_id": 25,
+    "state_name": "Indiana",
+    "country_id": 187
+  },
+  {
+    "state_id": 26,
+    "state_name": "Iowa",
+    "country_id": 187
+  },
+  {
+    "state_id": 27,
+    "state_name": "Kansas",
+    "country_id": 187
+  },
+  {
+    "state_id": 28,
+    "state_name": "Kentucky",
+    "country_id": 187
+  },
+  {
+    "state_id": 29,
+    "state_name": "Louisiana",
+    "country_id": 187
+  },
+  {
+    "state_id": 30,
+    "state_name": "Maine",
+    "country_id": 187
+  },
+  {
+    "state_id": 31,
+    "state_name": "Maryland",
+    "country_id": 187
+  },
+  {
+    "state_id": 32,
+    "state_name": "Massachusetts",
+    "country_id": 187
+  },
+  {
+    "state_id": 33,
+    "state_name": "Michigan",
+    "country_id": 187
+  },
+  {
+    "state_id": 34,
+    "state_name": "Minnesota",
+    "country_id": 187
+  },
+  {
+    "state_id": 35,
+    "state_name": "Mississippi",
+    "country_id": 187
+  },
+  {
+    "state_id": 36,
+    "state_name": "Missouri",
+    "country_id": 187
+  },
+  {
+    "state_id": 37,
+    "state_name": "Montana",
+    "country_id": 187
+  },
+  {
+    "state_id": 38,
+    "state_name": "Nebraska",
+    "country_id": 187
+  },
+  {
+    "state_id": 39,
+    "state_name": "Nevada",
+    "country_id": 187
+  },
+  {
+    "state_id": 40,
+    "state_name": "New Hampshire",
+    "country_id": 187
+  },
+  {
+    "state_id": 41,
+    "state_name": "New Jersey",
+    "country_id": 187
+  },
+  {
+    "state_id": 42,
+    "state_name": "New Mexico",
+    "country_id": 187
+  },
+  {
+    "state_id": 43,
+    "state_name": "New York",
+    "country_id": 187
+  },
+  {
+    "state_id": 44,
+    "state_name": "North Carolina",
+    "country_id": 187
+  },
+  {
+    "state_id": 45,
+    "state_name": "North Dakota",
+    "country_id": 187
+  },
+  {
+    "state_id": 46,
+    "state_name": "Ohio",
+    "country_id": 187
+  },
+  {
+    "state_id": 47,
+    "state_name": "Oklahoma",
+    "country_id": 187
+  },
+  {
+    "state_id": 48,
+    "state_name": "Oregon",
+    "country_id": 187
+  },
+  {
+    "state_id": 49,
+    "state_name": "Pennsylvania",
+    "country_id": 187
+  },
+  {
+    "state_id": 50,
+    "state_name": "Rhode Island",
+    "country_id": 187
+  },
+  {
+    "state_id": 51,
+    "state_name": "South Carolina",
+    "country_id": 187
+  },
+  {
+    "state_id": 52,
+    "state_name": "South Dakota",
+    "country_id": 187
+  },
+  {
+    "state_id": 53,
+    "state_name": "Tennessee",
+    "country_id": 187
+  },
+  {
+    "state_id": 54,
+    "state_name": "Texas",
+    "country_id": 187
+  },
+  {
+    "state_id": 55,
+    "state_name": "Utah",
+    "country_id": 187
+  },
+  {
+    "state_id": 56,
+    "state_name": "Vermont",
+    "country_id": 187
+  },
+  {
+    "state_id": 57,
+    "state_name": "Virginia",
+    "country_id": 187
+  },
+  {
+    "state_id": 58,
+    "state_name": "Washington",
+    "country_id": 187
+  },
+  {
+    "state_id": 59,
+    "state_name": "West Virginia",
+    "country_id": 187
+  },
+  {
+    "state_id": 60,
+    "state_name": "Wisconsin",
+    "country_id": 187
+  },
+  {
+    "state_id": 61,
+    "state_name": "Wyoming",
+    "country_id": 187
+  },
+  {
+    "state_id": 62,
+    "state_name": "New South Wales",
+    "country_id": 9
+  },
+  {
+    "state_id": 63,
+    "state_name": "Victoria",
+    "country_id": 9
+  },
+  {
+    "state_id": 64,
+    "state_name": "Queensland",
+    "country_id": 9
+  },
+  {
+    "state_id": 65,
+    "state_name": "Tasmania",
+    "country_id": 9
+  },
+  {
+    "state_id": 66,
+    "state_name": "South Australia",
+    "country_id": 9
+  },
+  {
+    "state_id": 67,
+    "state_name": "Western Australia",
+    "country_id": 9
+  },
+  {
+    "state_id": 68,
+    "state_name": "Northern Territory",
+    "country_id": 9
+  },
+  {
+    "state_id": 69,
+    "state_name": "Australian Capital Territory",
+    "country_id": 9
+  },
+  {
+    "state_id": 70,
+    "state_name": "Hokkaido",
+    "country_id": 86
+  },
+  {
+    "state_id": 71,
+    "state_name": "Tohoku",
+    "country_id": 86
+  },
+  {
+    "state_id": 72,
+    "state_name": "Kanto",
+    "country_id": 86
+  },
+  {
+    "state_id": 73,
+    "state_name": "Chubu",
+    "country_id": 86
+  },
+  {
+    "state_id": 74,
+    "state_name": "Kinki/Kansai",
+    "country_id": 86
+  },
+  {
+    "state_id": 75,
+    "state_name": "Chugoku",
+    "country_id": 86
+  },
+  {
+    "state_id": 76,
+    "state_name": "Shikoku",
+    "country_id": 86
+  },
+  {
+    "state_id": 77,
+    "state_name": "Kyushu",
+    "country_id": 86
+  },
+  {
+    "state_id": 78,
+    "state_name": "Aichi",
+    "country_id": 86
+  },
+  {
+    "state_id": 79,
+    "state_name": "Akita",
+    "country_id": 86
+  },
+  {
+    "state_id": 80,
+    "state_name": "Aomori",
+    "country_id": 86
+  },
+  {
+    "state_id": 81,
+    "state_name": "Chiba",
+    "country_id": 86
+  },
+  {
+    "state_id": 82,
+    "state_name": "Ehime",
+    "country_id": 86
+  },
+  {
+    "state_id": 83,
+    "state_name": "Fukui",
+    "country_id": 86
+  },
+  {
+    "state_id": 84,
+    "state_name": "Fukuoka",
+    "country_id": 86
+  },
+  {
+    "state_id": 85,
+    "state_name": "Fukushima",
+    "country_id": 86
+  },
+  {
+    "state_id": 86,
+    "state_name": "Gifu",
+    "country_id": 86
+  },
+  {
+    "state_id": 87,
+    "state_name": "Gunma",
+    "country_id": 86
+  },
+  {
+    "state_id": 88,
+    "state_name": "Hiroshima",
+    "country_id": 86
+  },
+  {
+    "state_id": 89,
+    "state_name": "Hyogo",
+    "country_id": 86
+  },
+  {
+    "state_id": 90,
+    "state_name": "Ibaraki",
+    "country_id": 86
+  },
+  {
+    "state_id": 91,
+    "state_name": "Ishikawa",
+    "country_id": 86
+  },
+  {
+    "state_id": 92,
+    "state_name": "Iwate",
+    "country_id": 86
+  },
+  {
+    "state_id": 93,
+    "state_name": "Kagawa",
+    "country_id": 86
+  },
+  {
+    "state_id": 94,
+    "state_name": "Kagoshima",
+    "country_id": 86
+  },
+  {
+    "state_id": 95,
+    "state_name": "Kanagawa",
+    "country_id": 86
+  },
+  {
+    "state_id": 96,
+    "state_name": "Kochi",
+    "country_id": 86
+  },
+  {
+    "state_id": 97,
+    "state_name": "Kumamoto",
+    "country_id": 86
+  },
+  {
+    "state_id": 98,
+    "state_name": "Kyoto",
+    "country_id": 86
+  },
+  {
+    "state_id": 99,
+    "state_name": "Mie",
+    "country_id": 86
+  },
+  {
+    "state_id": 100,
+    "state_name": "Miyagi",
+    "country_id": 86
+  },
+  {
+    "state_id": 101,
+    "state_name": "Miyazaki",
+    "country_id": 86
+  },
+  {
+    "state_id": 102,
+    "state_name": "Nagano",
+    "country_id": 86
+  },
+  {
+    "state_id": 103,
+    "state_name": "Nagasaki",
+    "country_id": 86
+  },
+  {
+    "state_id": 104,
+    "state_name": "Nara",
+    "country_id": 86
+  },
+  {
+    "state_id": 105,
+    "state_name": "Niigata",
+    "country_id": 86
+  },
+  {
+    "state_id": 106,
+    "state_name": "Ōita",
+    "country_id": 86
+  },
+  {
+    "state_id": 107,
+    "state_name": "Okayama",
+    "country_id": 86
+  },
+  {
+    "state_id": 108,
+    "state_name": "Okinawa",
+    "country_id": 86
+  },
+  {
+    "state_id": 109,
+    "state_name": "Osaka",
+    "country_id": 86
+  },
+  {
+    "state_id": 110,
+    "state_name": "Saga",
+    "country_id": 86
+  },
+  {
+    "state_id": 111,
+    "state_name": "Saitama",
+    "country_id": 86
+  },
+  {
+    "state_id": 112,
+    "state_name": "Shiga",
+    "country_id": 86
+  },
+  {
+    "state_id": 113,
+    "state_name": "Shimane",
+    "country_id": 86
+  },
+  {
+    "state_id": 114,
+    "state_name": "Shizuoka",
+    "country_id": 86
+  },
+  {
+    "state_id": 115,
+    "state_name": "Tochigi",
+    "country_id": 86
+  },
+  {
+    "state_id": 116,
+    "state_name": "Tokushima",
+    "country_id": 86
+  },
+  {
+    "state_id": 117,
+    "state_name": "Tokyo",
+    "country_id": 86
+  },
+  {
+    "state_id": 118,
+    "state_name": "Tottori",
+    "country_id": 86
+  },
+  {
+    "state_id": 119,
+    "state_name": "Toyama",
+    "country_id": 86
+  },
+  {
+    "state_id": 120,
+    "state_name": "Wakayama",
+    "country_id": 86
+  },
+  {
+    "state_id": 121,
+    "state_name": "Yamagata",
+    "country_id": 86
+  },
+  {
+    "state_id": 122,
+    "state_name": "Yamaguchi",
+    "country_id": 86
+  },
+  {
+    "state_id": 123,
+    "state_name": "Yamanashi",
+    "country_id": 86
+  },
+  {
+    "state_id": 124,
+    "state_name": "Seoul",
+    "country_id": 163
+  },
+  {
+    "state_id": 125,
+    "state_name": "Busan",
+    "country_id": 163
+  },
+  {
+    "state_id": 126,
+    "state_name": "Daegu",
+    "country_id": 163
+  },
+  {
+    "state_id": 127,
+    "state_name": "Incheon",
+    "country_id": 163
+  },
+  {
+    "state_id": 128,
+    "state_name": "Gwangju",
+    "country_id": 163
+  },
+  {
+    "state_id": 129,
+    "state_name": "Daejeon",
+    "country_id": 163
+  },
+  {
+    "state_id": 130,
+    "state_name": "Ulsan",
+    "country_id": 163
+  },
+  {
+    "state_id": 131,
+    "state_name": "Sejong",
+    "country_id": 163
+  },
+  {
+    "state_id": 132,
+    "state_name": "Gyeonggi",
+    "country_id": 163
+  },
+  {
+    "state_id": 133,
+    "state_name": "Gangwon",
+    "country_id": 163
+  },
+  {
+    "state_id": 134,
+    "state_name": "North Chungcheong",
+    "country_id": 163
+  },
+  {
+    "state_id": 135,
+    "state_name": "South Chungcheong",
+    "country_id": 163
+  },
+  {
+    "state_id": 136,
+    "state_name": "North Jeolla",
+    "country_id": 163
+  },
+  {
+    "state_id": 137,
+    "state_name": "South Jeolla",
+    "country_id": 163
+  },
+  {
+    "state_id": 138,
+    "state_name": "North Gyeongsang",
+    "country_id": 163
+  },
+  {
+    "state_id": 139,
+    "state_name": "South Gyeongsang",
+    "country_id": 163
+  },
+  {
+    "state_id": 140,
+    "state_name": "Jeju",
+    "country_id": 163
+  },
+  {
+    "state_id": 141,
+    "state_name": "New Taipei City",
+    "country_id": 196
+  },
+  {
+    "state_id": 142,
+    "state_name": "Taipei City",
+    "country_id": 196
+  },
+  {
+    "state_id": 143,
+    "state_name": "Taichung City",
+    "country_id": 196
+  },
+  {
+    "state_id": 144,
+    "state_name": "Tainan City",
+    "country_id": 196
+  },
+  {
+    "state_id": 145,
+    "state_name": "Kaohsiung City",
+    "country_id": 196
+  },
+  {
+    "state_id": 146,
+    "state_name": "Taoyuan City",
+    "country_id": 196
+  },
+  {
+    "state_id": 147,
+    "state_name": "Keelung City",
+    "country_id": 196
+  },
+  {
+    "state_id": 148,
+    "state_name": "Hsinchu City",
+    "country_id": 196
+  },
+  {
+    "state_id": 149,
+    "state_name": "Chiayi City",
+    "country_id": 196
+  },
+  {
+    "state_id": 150,
+    "state_name": "Hsinchu",
+    "country_id": 196
+  },
+  {
+    "state_id": 151,
+    "state_name": "Miaoli",
+    "country_id": 196
+  },
+  {
+    "state_id": 152,
+    "state_name": "Changhua",
+    "country_id": 196
+  },
+  {
+    "state_id": 153,
+    "state_name": "Nantou",
+    "country_id": 196
+  },
+  {
+    "state_id": 154,
+    "state_name": "Yunlin",
+    "country_id": 196
+  },
+  {
+    "state_id": 155,
+    "state_name": "Chiayi",
+    "country_id": 196
+  },
+  {
+    "state_id": 156,
+    "state_name": "Pingtung",
+    "country_id": 196
+  },
+  {
+    "state_id": 157,
+    "state_name": "Yilan City",
+    "country_id": 196
+  },
+  {
+    "state_id": 158,
+    "state_name": "Hualien",
+    "country_id": 196
+  },
+  {
+    "state_id": 159,
+    "state_name": "Taitung",
+    "country_id": 196
+  },
+  {
+    "state_id": 160,
+    "state_name": "Kinmen",
+    "country_id": 196
+  },
+  {
+    "state_id": 161,
+    "state_name": "Penghu",
+    "country_id": 196
+  },
+  {
+    "state_id": 162,
+    "state_name": "Lienchiang",
+    "country_id": 196
+  },
+  {
+    "state_id": 163,
+    "state_name": "District of Columbia",
+    "country_id": 187
+  },
+  {
+    "state_id": 164,
+    "state_name": "Puerto Rico",
+    "country_id": 187
+  }
+]

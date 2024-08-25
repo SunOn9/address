@@ -1,0 +1,7 @@
+syntax = "proto3";
+package fadovn_store;
+
+message Country {
+  int32 country_id = 1;
+  string country_name = 2;
+}

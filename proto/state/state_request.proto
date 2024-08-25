@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+message GetStateConditionRequest {
+  optional int32 state_id = 1;
+  optional string state_name = 2;
+  optional int32 country_id = 4;
+  repeated int32 list_state_id = 5;
+  optional int32 page = 10;
+  optional int32 limit = 11;
+  repeated int32 list_country_id = 12;
+}

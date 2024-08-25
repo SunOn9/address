@@ -1,0 +1,11 @@
+syntax = "proto3";
+package fadovn_store;
+
+message City {
+  int32 city_id = 1;
+  string city_name = 2;
+  string city_slug = 3;
+  string grant = 4;
+  int32 country_id = 5;
+  optional int32 state_id = 6;
+}

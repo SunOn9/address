@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+data/test
+
+# dist
+/dist
+backend/src/generated
+.idea
+.env
+client
+generated/*
+!generated/.gitkeep
+upload/*
+!upload/.gitkeep
+generated
+src/generated

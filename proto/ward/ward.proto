@@ -1,0 +1,11 @@
+syntax = "proto3";
+package fadovn_store;
+
+message Ward {
+  int32 ward_id = 1;
+  int32 district_id = 2;
+  int32 city_id = 3;
+  string ward_name = 4;
+  string ward_slug = 5;
+  string grant = 6;
+}

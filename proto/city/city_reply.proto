@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "city/city.proto";
+
+message CityReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional City payload = 4;
+}
+
+message CityListDataReply {
+  repeated City city_list = 1;
+  int32 total = 2;
+  optional int32 page = 3;
+  optional int32 limit = 4;
+}
+
+message CityListReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  CityListDataReply payload = 4;
+}

@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "district/district.proto";
+
+message DistrictReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional District payload = 4;
+}
+
+message DistrictListDataReply {
+  repeated District district_list = 1;
+  int32 total = 2;
+  optional int32 page = 3;
+  optional int32 limit = 4;
+}
+
+message DistrictListReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  DistrictListDataReply payload = 4;
+}
+
+

@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "state/state.proto";
+
+message StateReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional State payload = 4;
+}
+
+message StateListDataReply {
+  repeated State state_list = 1;
+  int32 total = 2;
+  optional int32 page = 3;
+  optional int32 limit = 4;
+}
+
+message StateListReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  StateListDataReply payload = 4;
+}

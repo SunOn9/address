@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "country/country.proto";
+
+message CountryReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional Country payload = 4;
+}
+
+message CountryListDataReply {
+  repeated Country country_list = 1;
+  int32 total = 2;
+  optional int32 page = 3;
+  optional int32 limit = 4;
+}
+
+message CountryListReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  CountryListDataReply payload = 4;
+}

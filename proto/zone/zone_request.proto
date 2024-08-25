@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package fadovn_store;
+import "zone/zone.proto";
+
+message GetZoneConditionRequest {
+  optional int32 zipcode = 1;
+  optional EnumZone.ZonePartner zone_type = 2;
+  optional int32 id = 3;
+}
+
+message GetZoneByZipcodeRequest {
+  string zipcode_from = 1;
+  string zipcode_to = 2;
+  EnumZone.ZonePartner zone_type = 3;
+}
+
+message CreateZoneRequest {
+  string zipcode =1;
+  repeated ZoneData data = 2;
+  repeated ZoneData exception_data = 3;
+  EnumZone.ZonePartner zone_type = 4;
+}
+
+message UpdateZoneData {
+  repeated ZoneData data = 2;
+  repeated ZoneData exception_data = 3;
+}
+
+message UpdateZoneRequest {
+  int32 zipcode = 1;
+  EnumZone.ZonePartner zone_type = 2;
+  UpdateZoneData data = 3;
+}
+
+message RemoveZoneRequest {
+  int32 zipcode = 1;
+  EnumZone.ZonePartner zone_type = 2;
+}

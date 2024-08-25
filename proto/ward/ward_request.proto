@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+message GetWardConditionRequest {
+  optional int32 ward_id = 1 ;
+  optional string ward_name = 2 ;
+  optional string ward_slug = 3 ;
+  optional int32 district_id = 4 ;
+  optional int32 city_id = 5 ;
+  repeated int32 list_ward_id = 6 ;
+  optional int32 page = 10;
+  optional int32 limit = 11;
+}

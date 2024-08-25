@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "country/country.proto";
+
+message GetCountryConditionRequest {
+  optional int32 country_id = 1;
+  optional string country_name = 2;
+  repeated int32 list_country_id = 3;
+  optional int32 page = 10;
+  optional int32 limit = 11;
+}

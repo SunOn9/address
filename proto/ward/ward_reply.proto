@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package fadovn_store;
+
+import "ward/ward.proto";
+
+message WardReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional Ward payload = 4;
+}
+
+message WardListDataReply {
+  repeated Ward ward_list = 1;
+  int32 total = 2;
+  optional int32 page = 3;
+  optional int32 limit = 4;
+}
+
+message WardListReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  WardListDataReply payload = 4;
+}
+
+

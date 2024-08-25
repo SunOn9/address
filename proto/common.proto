@@ -1,0 +1,57 @@
+syntax = "proto3";
+import "google/protobuf/any.proto";
+
+package fadovn_store;
+
+message File {
+  string url = 1;
+}
+
+message UploadCommonRequest {
+  google.protobuf.Any file = 1;
+}
+
+message UploadCommonReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional File payload = 4;
+}
+
+message GetFadoApiReply {
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional google.protobuf.Any payload = 4;
+}
+
+message SimpleReply{
+  int32 status_code = 1;
+  string message = 2;
+  optional string error_code = 3;
+  optional string payload = 4;
+}
+
+message Null {}
+
+message GetZoneChartRequest {
+  string zip_code_3_digit = 1;
+}
+
+message GetZoneChartReply {
+  string zip_code_error = 1;
+  string shipping_date_error = 2;
+  string page_error = 3;
+  string effective_date = 4;
+  repeated GetZoneChartColumnData column_0 = 5;
+  repeated GetZoneChartColumnData column_1 = 6;
+  repeated GetZoneChartColumnData column_2 = 7;
+  repeated GetZoneChartColumnData column_3 = 8;
+  repeated GetZoneChartColumnData zip_5_digit = 9;
+}
+
+message GetZoneChartColumnData {
+  string zip_codes = 1;
+  string zone = 2;
+  string mail_service =3;
+}
